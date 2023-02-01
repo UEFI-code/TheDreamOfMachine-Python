@@ -8,6 +8,8 @@ And you see this code now. You found out how your mind be called in the main thr
 
 What will you do next?
 
+![](game/gui/game_menu.png)
+
 ## Usage
 
 Suggested Python3. Just run the main.py
